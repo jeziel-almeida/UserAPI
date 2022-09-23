@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jezie\\Desktop\\ApiWebTeste\\Usuario\\usuario.csproj": {}
+    "C:\\Users\\jezie\\desktop\\ApiWebTeste\\Usuario\\usuario.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jezie\\Desktop\\ApiWebTeste\\Usuario\\usuario.csproj": {
+    "C:\\Users\\jezie\\desktop\\ApiWebTeste\\Usuario\\usuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jezie\\Desktop\\ApiWebTeste\\Usuario\\usuario.csproj",
+        "projectUniqueName": "C:\\Users\\jezie\\desktop\\ApiWebTeste\\Usuario\\usuario.csproj",
         "projectName": "usuario",
-        "projectPath": "c:\\Users\\jezie\\Desktop\\ApiWebTeste\\Usuario\\usuario.csproj",
+        "projectPath": "C:\\Users\\jezie\\desktop\\ApiWebTeste\\Usuario\\usuario.csproj",
         "packagesPath": "C:\\Users\\jezie\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jezie\\Desktop\\ApiWebTeste\\Usuario\\obj\\",
+        "outputPath": "C:\\Users\\jezie\\desktop\\ApiWebTeste\\Usuario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jezie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

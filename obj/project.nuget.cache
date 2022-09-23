@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XHDyu51ojf8oPasUdhTo1/4JAuub3SOr/I8nE3+xVuelaEpSnOI0c8Uh6UQ6l9YTT76RG2AIzmh/ejvx8s5F5Q==",
+  "dgSpecHash": "EuOrYBFbMmLd+ZsYthJmyurR+cXFQ1pvCw34+5U8gyJ2ivUocylGxTylt1rCtIFRXIVS7qAMdj+tQ7v+dX15Eg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jezie\\Desktop\\ApiWebTeste\\Usuario\\usuario.csproj",
+  "projectFilePath": "C:\\Users\\jezie\\desktop\\ApiWebTeste\\Usuario\\usuario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jezie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jezie\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",

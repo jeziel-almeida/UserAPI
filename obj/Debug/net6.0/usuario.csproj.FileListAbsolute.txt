@@ -25,3 +25,11 @@ C:\Users\jezie\Desktop\ApiWebTeste\Usuario\obj\Debug\net6.0\refint\usuario.dll
 C:\Users\jezie\Desktop\ApiWebTeste\Usuario\obj\Debug\net6.0\usuario.pdb
 C:\Users\jezie\Desktop\ApiWebTeste\Usuario\obj\Debug\net6.0\usuario.genruntimeconfig.cache
 C:\Users\jezie\Desktop\ApiWebTeste\Usuario\obj\Debug\net6.0\ref\usuario.dll
+C:\Users\jezie\desktop\ApiWebTeste\Usuario\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jezie\desktop\ApiWebTeste\Usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jezie\desktop\ApiWebTeste\Usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jezie\desktop\ApiWebTeste\Usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jezie\desktop\ApiWebTeste\Usuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jezie\desktop\ApiWebTeste\Usuario\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jezie\desktop\ApiWebTeste\Usuario\bin\Debug\net6.0\Npgsql.dll
+C:\Users\jezie\desktop\ApiWebTeste\Usuario\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
