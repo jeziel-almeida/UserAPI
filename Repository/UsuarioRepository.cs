@@ -1,5 +1,6 @@
 using Usuario.Data;
 using Usuario.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace Usuario.Repository
 {
@@ -12,14 +13,14 @@ namespace Usuario.Repository
             _context = context;
         }
 
-        public Task<IEnumerable<User>> BuscaUsers()
+        public async Task<IEnumerable<User>> BuscaUsers()
         {
-            throw new NotImplementedException();
+            return await _context.Users.ToListAsync();
         }
 
-        public Task<User> BuscaUser(int id)
+        public async Task<User> BuscaUser(int id)
         {
-            throw new NotImplementedException();
+            return await _context.Users.Where(x => x.id == id).FirstOrDefaultAsync();
         }
 
         public void AdicionaUser(User user)
@@ -29,12 +30,12 @@ namespace Usuario.Repository
 
         public void AtualizaUser(User user)
         {
-            throw new NotImplementedException();
+            _context.Update(user);
         }
 
         public void DeletaUser(User user)
         {
-            throw new NotImplementedException();
+            _context.Remove(user);
         }
 
         public async Task<bool> SaveChangesAsync()
